@@ -4,11 +4,11 @@ Upstream-Contact: https://github.com/jonschlinkert/ansi-wrap/issues
 Source: https://github.com/jonschlinkert/ansi-wrap
 
 Files: *
-Copyright: 2018 Jon Schlinkert (https://github.com/jonschlinkert)
+Copyright: 2018, Jon Schlinkert (https://github.com/jonschlinkert)
 License: Expat
 
 Files: debian/*
-Copyright: 2018 ARJUN LAL
+Copyright: 2018, ARJUN LAL
 License: Expat
 
 License: Expat
@@ -31,4 +31,3 @@ License: Expat
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
-
