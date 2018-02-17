@@ -1,9 +1,5 @@
 node-ansi-wrap (0.1.0-1) UNRELEASED; urgency=low
 
-  [ ARJUN LAL  Sat, 17 Feb 2018 22:03:22 +0530 ]
-  * Initial release (Closes: #nnnn)
-
-  [ ARJUN LAL ]
-  *
+  * Initial release (Closes: #890706)
 
  -- ARJUN LAL <theSleepDeprivedCoder@gmail.com>  Sat, 17 Feb 2018 22:04:01 +0530
