@@ -2,7 +2,7 @@ Source: node-ansi-wrap
 Section: javascript
 Priority: optional
 Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
-Uploaders: ARJUN LAL <theSleepDeprivedCoder@gmail.com>
+Uploaders: Arjun Lal <theSleepDeprivedCoder@gmail.com>
 Build-Depends:
  debhelper (>= 11)
  , dh-buildinfo
